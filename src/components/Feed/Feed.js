@@ -1,6 +1,6 @@
 import { Fragment } from "react";
 
-import Post from './Post'
+import Post from '../Post'
 
 const Feed = ({ posts }) => {
   return (

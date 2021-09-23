@@ -1,6 +1,6 @@
 import { Fragment } from "react";
 
-import Author from './Author'
+import Author from '../Author'
 
 const Post = ({ title, text, author }) => {
   return (
